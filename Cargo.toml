@@ -1,6 +1,6 @@
 [package]
 name = "dotenv_consts"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["panicbit <panicbit.dev@gmail.com>"]
 license = "MIT OR Apache-2.0"
 description = "A macro that expands dotenv variables to constants"
